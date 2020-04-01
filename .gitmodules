@@ -1,0 +1,3 @@
+[submodule "mediapipe/workspace"]
+	path = mediapipe/workspace
+	url = git@github.com:polymitis/mp-workspace.git
